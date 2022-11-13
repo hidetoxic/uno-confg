@@ -65,5 +65,9 @@
     "esbuild": "^0.15.13",
     "rollup": "^3.3.0",
     "unocss": "^0.46.5"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
