@@ -1,18 +1,18 @@
 {
-  "name": "pkg-name",
+  "name": "@hidetoxic/unocss-config",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.12.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "HIDETOXIC <hidetoxic@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "homepage": "https://github.com/hidetoxic/unocss-config/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+git@github.com:hidetoxic/unocss-config.git"
   },
-  "bugs": "https://github.com/antfu/pkg-name/issues",
+  "bugs": "https://github.com/hidetoxic/unocss-config/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -58,7 +58,12 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.8.3",
     "unbuild": "^0.8.11",
+    "unocss": "^0.46.5",
     "vite": "^3.1.2",
     "vitest": "^0.23.4"
+  },
+  "dependencies": {
+    "esbuild": "^0.15.13",
+    "rollup": "^3.3.0"
   }
 }
