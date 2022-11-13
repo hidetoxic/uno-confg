@@ -1,7 +1,7 @@
 {
   "name": "@hidetoxic/unocss-config",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "HIDETOXIC <hidetoxic@gmail.com>",
@@ -58,12 +58,12 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.8.3",
     "unbuild": "^0.8.11",
-    "unocss": "^0.46.5",
     "vite": "^3.1.2",
     "vitest": "^0.23.4"
   },
   "dependencies": {
     "esbuild": "^0.15.13",
-    "rollup": "^3.3.0"
+    "rollup": "^3.3.0",
+    "unocss": "^0.46.5"
   }
 }
