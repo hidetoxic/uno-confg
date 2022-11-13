@@ -1,7 +1,7 @@
 {
   "name": "@hidetoxic/unocss-config",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "HIDETOXIC <hidetoxic@gmail.com>",
